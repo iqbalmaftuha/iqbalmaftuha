@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
 <!--
 **iqbalmaftuha/iqbalmaftuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
