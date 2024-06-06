@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-<p align="center"><img src="https://beritabojonegoro.com/imageoptim/5b35d024-foto-semangat.lg.jpg" /></p>
+<p align="center"><img src="file:///C:/Users/Iqbal/Downloads/5b35d024-foto-semangat.lg-removebg-preview.png" /></p>
 
 <!--
 **iqbalmaftuha/iqbalmaftuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
